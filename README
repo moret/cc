@@ -1,0 +1,13 @@
+== Cloud map and reduce for machine learning large jobs
+
+This is the second implementation using ETL splitting technique over large html corpus for PUC's Cloud course. It's based on Sinatra and CloudCrowd.
+
+To develop and test crowd actions, it will be easier to have the binaries installed:
+
+  sudo gem install cloud-crowd
+
+Clone and run:
+
+  git clone git@github.com:moret/cc.git
+  cd cc/
+  ???
