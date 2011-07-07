@@ -10,4 +10,4 @@ Clone and run:
 
   git clone git@github.com:moret/cc.git
   cd cc/
-  ???
+  ./run.sh
